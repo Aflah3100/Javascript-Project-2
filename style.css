@@ -1,0 +1,29 @@
+#maindiv{
+    border: 1px solid red;
+}
+#buttondiv{
+    border: 1px solid black;
+}
+#divbtn-1{
+    padding: 10px;
+}
+#divbtn-2{
+    padding: 10px;
+}
+#divbtn-3{
+    padding: 10px;
+}
+#catgen{
+    border: 1px solid blue;
+    padding: 10px;
+    text-align: center; 
+    
+}
+#catoutput{
+    padding: 15px;
+
+}
+#catoutput img{
+    border: 1px solid grey;
+    padding:1px;
+}
